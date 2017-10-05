@@ -1,5 +1,6 @@
 package org.echocat.kata.java.part1;
 
+
 @SuppressWarnings("UseOfSystemOutOrSystemErr")
 public class MainApp {
 
